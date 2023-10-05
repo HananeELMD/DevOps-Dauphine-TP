@@ -1,3 +1,3 @@
 provider "google" {
-    project = "projet-tp6-400218"
+    project = "projet-tp2-400218"
 }
